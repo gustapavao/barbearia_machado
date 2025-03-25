@@ -1,7 +1,7 @@
 export default function Gallery() {
     const images = [
-        "src/assets/galerry.png",
-        "src/assets/galerry-2.png",
+        "/galerry.png",
+        "/galerry-2.png",
     ];
 
     return (

@@ -1,9 +1,9 @@
 import BarberCard from "../components/BarberCard";
 
 const barbers = [
-    { name: "Gerdson", specialty: "Cortes Clássicos", image: "/images/gerdson.png" },
-    { name: "Junior", specialty: "Degradê e Fade", image: "/public/junior.png" },
-    { name: "Gutto", specialty: "Barbas e Navalha", image: "images/gutto.png" },
+    { name: "Gerdson", specialty: "Cortes Clássicos", image: "/gerdson.png" },
+    { name: "Junior", specialty: "Degradê e Fade", image: "/junior.png" },
+    { name: "Gutto", specialty: "Barbas e Navalha", image: "/gutto.png" },
     { name: "Pedro", specialty: "Barbas e Navalha", image: "/pedro.png" },
 ];
 
